@@ -5,12 +5,10 @@ public class Main {
 
 // tablica graczy
         Player[] players = {
-                new Player("pawel", "Lukaszewski", 50),
+                new Player("pawel", "Lukaszewski", 1),
                 new Player("Rom", "Leya", 10),
-                // new Player("thomas", "Lukas", 150),
-                //  new Player("thomas", "Dupa", 170),
                 new Player("Jackob", "Lukaszewski", 50),
-                new Player("Vader", "Skywoker", 12)};
+                new Player("Vader", "Skywoker", 102)};
 
 
         Game game = new Game(" Quake 3 turnament", players); //obiekt game

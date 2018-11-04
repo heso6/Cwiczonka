@@ -1,8 +1,16 @@
 package Ylikanko;
 
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
 public class klikanko2 {
-    public static void main(String[] args) {
+
+    public static void main(String[] args) throws FileNotFoundException {
+
 
 //        int[] numbers = {1, 5, 23, 2, 1, 6, 3, 1, 8, 12, 3};
 //        Arrays.sort(numbers);
@@ -22,7 +30,7 @@ public class klikanko2 {
 //}
 
 
-//        List<Integer> list = new ArrayList<>();
+        //        List<Integer> list = new ArrayList<>();
 //        list.add(1);
 //        list.add(4);
 //        list.add(7);
@@ -47,12 +55,14 @@ public class klikanko2 {
 //        System.out.println(dupesList.size() + " dupes List words: " + dupesList);
 //    }
 //}
-//
-//
-//
-//
+        Scanner input = new Scanner(new File("./src/test.txt"));
 
 
+        while (input.hasNext()){
+            System.out.println(input.next());
+        }
 
+
+        input.close();
     }
 }

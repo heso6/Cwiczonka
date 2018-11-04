@@ -1,5 +1,7 @@
 package Klasy.Zad3;
 
+import java.util.Arrays;
+
 public class Game {
 
     private String name;
@@ -15,16 +17,20 @@ public class Game {
     public String getWinner() { // metoda getWinner
 
         // wyszukujemy gracza, ktory ma najwiecej pkt z calego meczu
-        int max = Integer.MIN_VALUE;
+        int max = 0;
         int tempIndex = 0;
         for (int i = 0; i < players.length; i++) {
             if (max < players[i].getPoints()) {
                 max = players[i].getPoints();
                 tempIndex = i;
 
+
             }
+
         }
+
         return players[tempIndex].fullName();
+
     }
 
 }

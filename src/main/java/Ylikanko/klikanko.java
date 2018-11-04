@@ -1,6 +1,8 @@
 package Ylikanko;
 
 import java.io.FileNotFoundException;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 
 /**
  * Created by Płaszczka on 2016-11-23.
@@ -167,33 +169,41 @@ public class klikanko {
             j = 0; // Same objective as in the loop above
             System.out.println(" ");
         }*/
-        int[][] arr = new int[4][];
-        arr[0] = new int[1];
-        arr[1] = new int[2];
-        arr[2] = new int[3];
-        arr[3] = new int[4];
-
-        int counter = 10;
-
-        //fill arr numbers from 1 to 10
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < arr[i].length; j++) {
-                arr[i][j] = counter--;
-                System.out.println(arr[i][j]);
 
 
-            }
+//        int[][] arr = new int[4][];
+//        arr[0] = new int[1];
+//        arr[1] = new int[2];
+//        arr[2] = new int[3];
+//        arr[3] = new int[4];
+//
+//        int counter = 10;
+//
+//        //fill arr numbers from 1 to 10
+//        for (int i = 0; i < arr.length; i++) {
+//            for (int j = 0; j < arr[i].length; j++) {
+//                arr[i][j] = counter--;
+//                System.out.println(arr[i][j]);
+//
+//
+//            }
+//
+//        }
+//        for (int i = 0; i < arr.length; i++) {
+//            System.out.print("arr [ " + i + " ] ");
+//            for (int j = 0; j < arr[i].length; j++) {
+//                System.out.print(arr[i][j] + " ");
+//
+//            }
+//            System.out.println(" ");
+//
+//        }
 
-        }
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print("arr [ " + i + " ] ");
-            for (int j = 0; j < arr[i].length; j++) {
-                System.out.print(arr[i][j] + " ");
 
-            }
-            System.out.println(" ");
+        LocalDateTime time = LocalDateTime.now();
 
-        }
+        System.out.println(time);
+
     }
 
 

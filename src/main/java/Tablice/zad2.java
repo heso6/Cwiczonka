@@ -1,4 +1,4 @@
-package Tablice;
+package tablice;
 
 /**
  * Created by Płaszczka on 2016-11-24.
@@ -13,11 +13,8 @@ public class zad2 {
         for (int i = 1; i < array.length; i++) {
             if (array[i] < temp)
                 temp = array[i];
-
-            System.out.println("najmniejsza liczba to " + temp);
-
-
         }
+        System.out.println("najmniejsza liczba to " + temp);
     }
 }
 /*

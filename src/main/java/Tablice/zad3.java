@@ -1,4 +1,4 @@
-package Tablice;
+package tablice;
 
 /**
  * Created by Płaszczka on 2016-11-24.
