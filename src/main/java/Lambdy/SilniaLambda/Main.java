@@ -25,6 +25,6 @@ public class Main {
         names.stream().sorted().forEach(lambdaNames -> System.out.println(lambdaNames));
 //        blablablabla
         int dupa = 1234;
-
+String dupcia = "anna";
     }
 }
