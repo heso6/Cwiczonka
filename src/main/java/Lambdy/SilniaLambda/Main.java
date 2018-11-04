@@ -29,5 +29,6 @@ String dupcia = "anna";
 
 //?bavavasvsad
 //        dsadasdasdsadasd
+        int sraczusia;
     }
 }
