@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db431e19-74d0-4a02-b2d4-e8fa3f48c2cc" name="Default" comment="qwe">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lambdy/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Refleksje/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Watki/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Watki/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Watki/Zad1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cwiczonka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cwiczonka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Klasy/Zad3/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Klasy/Zad3/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Klasy/Zad3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Klasy/Zad3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kolekcje/Zad/prez/kolekcje2/Zad/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tablice/zad7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tablice/zad7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Watki/Zad1/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Refleksje/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Watki/nullx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ylikanko/klikanko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ylikanko/klikanko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ylikanko/klikanko2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ylikanko/klikanko2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Klasy/Zad3/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Klasy/Zad3/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Klasy/Zad3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Klasy/Zad3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Kolekcje/Zad/prez/kolekcje2/Zad/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tablice/zad7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tablice/zad7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Watki/Zad1/Zad1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Watki/nullx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Ylikanko/klikanko.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Ylikanko/klikanko.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Ylikanko/klikanko2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Ylikanko/klikanko2.class" afterDir="false" />
-    </list>
+    <list default="true" id="db431e19-74d0-4a02-b2d4-e8fa3f48c2cc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +20,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lambdy/SilniaLambda/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="63">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,8 +112,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Lambdy/Example2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lambdy/Exercises3/Converter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lambdy/Exercises3/Exercises.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lambdy/SilniaLambda/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ylikanko/klikanko.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lambdy/SilniaLambda/Main.java" />
       </list>
     </option>
   </component>
@@ -397,6 +357,21 @@
       <option name="presentableId" value="Default" />
       <updated>1518208454173</updated>
     </task>
+    <task id="LOCAL-00001" summary="something">
+      <created>1541351839991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541351839991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="something1">
+      <created>1541351915298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541351915298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -442,7 +417,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
@@ -451,7 +425,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50323623" side_tool="true" weight="0.3298611" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32889125" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.7418981" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.74183005" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26450115" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298611" />
       <window_info id="Capture Tool" order="2" />
@@ -508,7 +482,9 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="qwe" />
-    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
+    <MESSAGE value="something" />
+    <MESSAGE value="something1" />
+    <option name="LAST_COMMIT_MESSAGE" value="something1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -858,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lambdy/SilniaLambda/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="63">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
